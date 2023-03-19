@@ -492,9 +492,9 @@ collections:
             label: Text
             name: '-3d912403'
             widget: text
-          - hint: 'Original text: Instagram, key: 792b2792'
+          - hint: 'Original text: Github, key: 7f260803'
             label: Text
-            name: 792b2792
+            name: 7f260803
             widget: string
           - hint: 'Original text: Twitter, key: 2c9a4253'
             label: Text
@@ -655,10 +655,6 @@ collections:
               2d4d14c4
             label: Text
             name: 2d4d14c4
-            widget: string
-          - hint: 'Original text: ReactJs/ React Native, key: 19813f71'
-            label: Text
-            name: 19813f71
             widget: string
           - hint: 'Original text: Work together?, key: -6bbca4ea'
             label: Text
@@ -835,6 +831,10 @@ collections:
           - hint: 'Original text: Numbered List item, key: 6ca2b4dd'
             label: Text
             name: 6ca2b4dd
+            widget: string
+          - hint: 'Original text: Instagram, key: 792b2792'
+            label: Text
+            name: 792b2792
             widget: string
           - hint: 'Original text: chizaram@rd3studiosllc.com, key: -722a5313'
             label: Text
@@ -1136,35 +1136,23 @@ collections:
             label: Link
             name: 2f
             widget: string
-          - hint: 'Original link: /projects, key: -2f68657'
+          - hint: 'Original link: #, key: 23'
             label: Link
-            name: '-2f68657'
+            name: '23'
             widget: string
-          - hint: 'Original link: /blog, key: 2c48051'
+          - hint: 'Original link: https://github.com/chizwils, key: 71b4ef9'
             label: Link
-            name: 2c48051
-            widget: string
-          - hint: 'Original link: /about, key: 55b8e8be'
-            label: Link
-            name: 55b8e8be
-            widget: string
-          - hint: 'Original link: /contact, key: 4b0e6111'
-            label: Link
-            name: 4b0e6111
-            widget: string
-          - hint: 'Original link: https://www.instagram.com/chizwils/, key: -585e16f0'
-            label: Link
-            name: '-585e16f0'
+            name: 71b4ef9
             widget: string
           - hint: 'Original link: https://twitter.com/chizwi, key: -51ea8aa0'
             label: Link
             name: '-51ea8aa0'
             widget: string
           - hint: >-
-              Original link: https://www.linkedin.com/in/chizaramchinedu/, key:
-              -54785918
+              Original link: https://www.linkedin.com/in/lucky-chinedu, key:
+              f2b1095
             label: Link
-            name: '-54785918'
+            name: f2b1095
             widget: string
           - hint: >-
               Original link:
@@ -1181,6 +1169,16 @@ collections:
             label: Link
             name: 3d60f1fb
             widget: string
+          - hint: 'Original link: /contact, key: 4b0e6111'
+            label: Link
+            name: 4b0e6111
+            widget: string
+          - hint: >-
+              Original link: https://www.linkedin.com/in/chizaramchinedu/, key:
+              -54785918
+            label: Link
+            name: '-54785918'
+            widget: string
           - hint: >-
               Original link:
               mailto:chizaram@rd3studiosllc.com?subject=Hello%20From%20Chizaram%20Page,
@@ -1192,9 +1190,17 @@ collections:
             label: Link
             name: 20a012c3
             widget: string
-          - hint: 'Original link: #, key: 23'
+          - hint: 'Original link: /projects, key: -2f68657'
             label: Link
-            name: '23'
+            name: '-2f68657'
+            widget: string
+          - hint: 'Original link: /blog, key: 2c48051'
+            label: Link
+            name: 2c48051
+            widget: string
+          - hint: 'Original link: /about, key: 55b8e8be'
+            label: Link
+            name: 55b8e8be
             widget: string
           - hint: 'Original link: https://azwedo.com, key: 4007ed34'
             label: Link

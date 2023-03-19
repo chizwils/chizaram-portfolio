@@ -703,6 +703,8 @@ figcaption {
 
 .nav-menu {
   z-index: 1;
+  display: none;
+  overflow: visible;
   padding-top: 6px;
   padding-bottom: 6px;
 }
